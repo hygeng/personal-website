@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Haoyu Geng (耿皓宇)
+title: Haoyu Geng
 
 # Is this the primary user of the site?
 superuser: true
@@ -14,7 +14,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include XXX.
+bio: I am Haoyu Geng (耿皓宇). My research interests include XXX.
 
 interests:
 - Machine Learning
@@ -54,7 +54,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "mailto:genghaoyu98@sjtu.edu.cn"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
