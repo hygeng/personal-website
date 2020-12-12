@@ -97,7 +97,7 @@ address = {street = "No. 800 Dongchuan Rd.", city = "Minhang", region = "Shangha
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "31.0224", longitude = "121.4423"}
+coordinates = {latitude = "31.02474", longitude = "121.43810"}
 
 # Directions for visitors to locate you.
 directions = "Floor 5, AI Institute"
@@ -263,7 +263,7 @@ plugins_js  = []
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  engine = 1
+  engine = 2
   api_key = ""
   zoom = 15
 
