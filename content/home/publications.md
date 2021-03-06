@@ -28,7 +28,7 @@ subtitle = ""
     tag = ""
     category = ""
     publication_type = ""
-    author = ""
+    author = "Haoyu Geng"
     exclude_featured = false
   
 [design]
