@@ -11,7 +11,7 @@ role: Ph.D. student
 # Organizations/Affiliations
 organizations:
 - name: Shanghai Jiao Tong University
-  url: ""
+  url: "en.sjtu.edu.cn"
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am Haoyu Geng (耿皓宇). My research interests include XXX.
@@ -60,7 +60,7 @@ social:
 email: "mailto:genghaoyu98@sjtu.edu.cn"
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
