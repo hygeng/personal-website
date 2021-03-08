@@ -16,8 +16,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Source Themes Conference*
-publication_short: In *STC*
+publication: In *HISR*
+publication_short: In *DASFAA*
 
 abstract: Recommendation systems are undergoing plentiful practices in research and industry to improve consumers' satisfaction.  In recent years, many research papers leverage abundant data from heterogeneous information sources to grasp diverse preferences and improve overall accuracy. Some noticeable papers proposed to extract users' preference from information along with ratings such as reviews or social relations. However, their combinations are generally static and less expressive without considerations on dynamic contexts in users' purchases and choices. In this paper, we propose  Heterogeneous Information Sequential Recommendation System (HISR), a dual-GRU structure that builds the sequential dynamics behind the customer behaviors, and combines preference features from review text and social attentional relations under dynamics contexts.  A novel gating layer is applied to dynamically select and explicitly combine two views of data. Moreover, in social attention module, temporal textual information is brought in as a clue to dynamically select friends that are helpful for contextual purchase intentions as an implicit combination. We validate our proposed method on two large subsets of real-world local business dataset Yelp, and our method outperforms the state of the art methods on related tasks including social, sequential and heterogeneous recommendations. 
 
@@ -25,7 +25,7 @@ abstract: Recommendation systems are undergoing plentiful practices in research 
 summary: Recommendation Systems , Sequential Recommendation , Gating Mechanism
 
 tags:
-- Source Themes
+- Recommendation
 featured: false
 
 links:
@@ -60,7 +60,7 @@ image:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: ""
+slides: 
 ---
 
 {{% alert note %}}
