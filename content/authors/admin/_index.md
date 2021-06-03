@@ -23,7 +23,7 @@ interests:
 
 education:
   courses:
-  - course: PhD in Computer Science
+  - course: Ph.D. in Computer Science
     institution: Shanghai Jiao Tong University
     year: 2020-
   - course: BSc in Computer Science

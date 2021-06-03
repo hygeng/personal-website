@@ -25,7 +25,7 @@ summary: Recommendation Systems , Sequential Recommendation
 
 tags:
 - Recommendation
-featured: True
+featured: true
 
 links:
 - name: 
