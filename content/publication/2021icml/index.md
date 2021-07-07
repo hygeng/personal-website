@@ -1,7 +1,7 @@
 ---
 title: "Learning Self-Modulating Attention in Continuous Time Space with Applications to Sequential Recommendation"
 authors:
-- Chao Chen, Haoyu Geng, Nianzu Yang, Junchi Yan,  Daiyue Xue, Jianping Yu, · Xiaokang Yang,  ICML 2010-Proceedings, 27th International Conference on Machine Learning, July 18-24, 2021
+- Chao Chen, Haoyu Geng, Nianzu Yang, Junchi Yan,  Daiyue Xue, Jianping Yu, · Xiaokang Yang,  ICML 2021-Proceedings, 27th International Conference on Machine Learning, July 18-24, 2021
 date: "2021-07-18T00:00:00Z"
 doi: ""
 
@@ -25,7 +25,7 @@ summary: Recommendation Systems , Sequential Recommendation
 
 tags:
 - Recommendation
-featured: true
+featured: False
 
 links:
 - name: 
